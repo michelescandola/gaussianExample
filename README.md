@@ -1,0 +1,3 @@
+# gaussianExample
+
+Just something to start with lmer...
